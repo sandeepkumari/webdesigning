@@ -1,0 +1,20 @@
+.header{
+    background-image: url("../images/pics.JPG");
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.logo{
+    height: 30px;
+    background-color: blue;
+    color: white;
+    width: fit-content;
+    padding: 20px;
+
+}
+.logo-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
